@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ngtienviett
-- 🌱 I’m currently learning to become Front-end developer
+- 🌱 I’m currently Front-end developer
 - 📫 How to reach me on instagram: @ngtienviett
 
 <!---
